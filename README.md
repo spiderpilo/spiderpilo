@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I’m Piolo (spiderpilo)
 
-<!--
-**spiderpilo/spiderpilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Computer Science student at California State University, Long Beach, and I enjoy building practical, user-focused applications. I like exploring different areas of software development and experimenting with tools that help me grow as a developer.
 
-Here are some ideas to get you started:
+🛠️ What I Like Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full-stack applications
+
+AI-powered features using the OpenAI API
+
+Frontend interfaces with clean and simple UI
+
+Interactive tools and productivity apps
+
+Small experimental projects to learn new concepts
+
+🚀 Technologies I Use
+
+Languages: JavaScript, TypeScript, Python, C++, SQL
+Frontend: React, HTML, CSS
+Backend: Node.js, Express
+Tools: Git, GitHub, REST APIs, Electron
+AI: OpenAI API
