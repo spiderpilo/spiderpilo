@@ -10,8 +10,13 @@ I’m a Computer Science student at California State University, Long Beach, and
 - Small experimental projects to learn new concepts
 
 🚀 Technologies I Use
+
 Languages: JavaScript, TypeScript, Python, C++, SQL
+
 Frontend: React, HTML, CSS
+
 Backend: Node.js, Express
+
 Tools: Git, GitHub, REST APIs, Electron
+
 AI: OpenAI API
