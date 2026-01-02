@@ -1,6 +1,6 @@
-👋 Hi, I'm Piolo (@spiderpilo)
+# Piolo Patag
 
-I'm a Computer Science student at California State University, Long Beach (CSULB).
+Computer Science student at **California State University, Long Beach**.  
+I build **full-stack web applications** with a focus on clean UI, thoughtful design, and practical problem-solving.
 
-I enjoy building full-stack applications and experimenting with AI-powered tools.
-Technologies I work with include JavaScript, React, Node.js, Express, HTML, CSS, Python, C++, and Git
+**Tech:** JavaScript, React, Node.js, HTML, CSS, REST APIs, Git
