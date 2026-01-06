@@ -1,4 +1,4 @@
-# Piolo Patag
+# hi im piolo
 
 Computer Science student at **California State University, Long Beach**.  
 I build **full-stack web applications** with a focus on clean UI, thoughtful design, and practical problem-solving.
