@@ -1,5 +1,5 @@
 ### hi, im piolo.
 
-I'm a CS student at CSULB focused on AI/ML, interested in building intelligent, human-centered systems that make everyday tools more personal and useful. I enjoy combining machine learning with thoughtful UI and practical software engineering to turn ideas into real products.
+I'm a Computer Science student exploring the intersection of AI, robotics, and embedded systems. My interests range from machine learning and Edge AI to Physical AI, where software can directly interact with and understand the physical world. I enjoy building projects that combine hardware and software, whether it's assistive technology, autonomous systems, or simply ideas I find exciting and worth creating.
 
 Tech: Python, C++, Linux, JavaScript, React, Node.js, HTML, CSS, SQL, REST APIs, Git.
